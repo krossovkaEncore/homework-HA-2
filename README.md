@@ -1,2 +1,2 @@
-[Настройка горячих клавиш и изучение программ для переназначения клавиш и автоматизации действий пользователя..docx](https://github.com/user-attachments/files/33641150/default.docx)
 
+[default.docx](https://github.com/user-attachments/files/33666269/default.docx)
